@@ -1,0 +1,28 @@
+.styleProduct {
+    width: 10%;
+    min-height: 3%;
+    margin-top: 3%;
+    border: 1px;
+    border-style: solid;
+    border-color: brown;
+    font-size: 10px;
+}
+.titleButonStyle{
+    margin-left: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.image{
+    width: 100%;
+    margin-top: 5%;
+    padding-left: 30%;
+}
+.butondetails{
+    margin: 10%;
+    color:red;
+}
+.button:hover {
+    border-color: rgb(36, 31, 31);
+}

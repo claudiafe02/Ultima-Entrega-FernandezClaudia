@@ -1,0 +1,10 @@
+.styleButon {
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    border-radius: 5px;
+    color: brown
+}
+button:hover {
+    color: white;
+}

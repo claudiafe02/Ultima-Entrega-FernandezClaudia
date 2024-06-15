@@ -1,0 +1,21 @@
+h1{
+    font-size: 20px;
+    color: black;
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin-left: 1%;
+}
+h2{
+    font-size: 20px;
+    color: black;
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin-left: 1%;
+}
+.butonStyle{
+    padding: .5rem;
+    width: 8rem;
+    border: 1px solid;
+    margin-top: 1rem;
+    margin-left: 1%;
+}

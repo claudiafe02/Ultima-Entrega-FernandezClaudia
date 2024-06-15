@@ -1,0 +1,25 @@
+.detailsection {
+    width: 30%;
+    min-height: 30%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+    padding-bottom: 5%;
+    border: 2px;
+    border-style: solid;
+    border-color: brown;
+}    
+.image{
+    width: 40%;
+    margin-top: 5%;
+    margin-right: 45%;
+}
+h2{
+    margin-top: 5%;
+    margin-left: 35%;
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+    margin: 3%;
+}

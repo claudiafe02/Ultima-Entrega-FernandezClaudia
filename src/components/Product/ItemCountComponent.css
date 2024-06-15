@@ -1,0 +1,12 @@
+.butonClicStyle{
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 15px;
+}
+.butonAddStyle{
+    margin-left: 35%;
+    padding-bottom: 3%;
+}
+/* padding-left: 10%; */
