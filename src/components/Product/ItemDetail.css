@@ -3,23 +3,23 @@
     min-height: 30%;
     margin-top: 5%;
     margin-bottom: 10%;
-    margin-left: 5%;
     padding-bottom: 5%;
-    border: 2px;
+    border: 1.5px;
     border-style: solid;
-    border-color: brown;
+    border-color: #110579;
 }    
 .image{
     width: 40%;
     margin-top: 5%;
-    margin-right: 45%;
+    margin-right: 35%;
 }
-h2{
+.subtith2{
     margin-top: 5%;
-    margin-left: 35%;
-    font-size: 30px;
+    margin-left: 36%;
+    font-size: 25px;
+    color: #110579;
 }
 p{
-    font-size: 15px;
-    margin: 3%;
+    font-size: 17px;
+    margin: 5%;
 }

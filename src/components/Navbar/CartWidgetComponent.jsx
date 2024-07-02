@@ -12,7 +12,7 @@ export default function CartWidgetComponent({camino}) {
           <img style={{width: 30,height: 30,marginRight:'3%'}} src={carrito} alt="carrito de compras "/>
 
           <button style={{width: 30,height: 30,backgroundColor: 'white',color: 'black', border: '0'}}>
-            <Link to={"/CartComponent"} >Ver</Link>
+            <Link to={"/CartComponent"} style={{textDecoration:'none'}} >{cartUpdate()}</Link>
            </button>
         </div>
     )

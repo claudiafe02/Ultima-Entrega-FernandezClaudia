@@ -1,21 +1,43 @@
 h1{
-    font-size: 20px;
+    font-size: 25px;
     color: black;
     font-family: 'Roboto';
     font-weight: 500;
     margin-left: 1%;
 }
 h2{
-    font-size: 20px;
+    font-size: 23px;
     color: black;
     font-family: 'Roboto';
     font-weight: 500;
     margin-left: 1%;
 }
+h3{
+    font-size: 18px;
+    color: black;
+    font-family: 'Roboto';
+    font-weight: 500;
+    margin-left: 3%;
+}
 .butonStyle{
     padding: .5rem;
     width: 8rem;
+    background-color: rgb(228, 228, 137);
     border: 1px solid;
     margin-top: 1rem;
     margin-left: 1%;
+}
+.butonStyleDel{
+    padding: .5rem;
+    width: 8rem;
+    background-color: rgb(228, 228, 137);
+    border: 1px solid;
+    border-color: rgb(228, 228, 137); 
+    margin-top: 1rem;
+    margin-left: 1%;
+}
+
+p{
+    font-size: 15px;
+    margin: 3%;
 }

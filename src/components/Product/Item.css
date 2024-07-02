@@ -4,7 +4,8 @@
     margin-top: 3%;
     border: 1px;
     border-style: solid;
-    border-color: brown;
+    border-color: #110579;
+    background-color: rgb(241, 215, 128);
     font-size: 10px;
 }
 .titleButonStyle{

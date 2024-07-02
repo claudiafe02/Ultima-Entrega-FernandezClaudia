@@ -4,10 +4,8 @@ import NavBarComponent from './components/Navbar/NavBarComponent';
 import ItemListContainer from './components/Products/ItemListContainer';
 import ItemDetailContainer from './components/Product/ItemDetailContainer';
 import CartContainer from './components/Navbar/CartContainer';
-import CartComponent from './components/Navbar/CartComponent';
 import CartProvider from './context/CartContext';
 import Checkout from './components/Navbar/Checkout';
-
 
 export default function App() {
   return (
